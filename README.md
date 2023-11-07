@@ -16,8 +16,12 @@ Vista la sua lunga carriera da docente dell'Avogadro, gli esercizi del professor
 #### 3B Informatica
 - [BERGADANO Lorenzo](./2015_2016-3BI-BERGADANO-Lorenzo/)
 
+### 2020 - 2021
+#### 3C Informatica
+- [SCHIAVELLO Marco](./2020_2021-3CI-SCHIAVELLO-Marco/)
+
 ### 2021 - 2022
-### 3C Informatica
+#### 3C Informatica
 - [BELLINI Antonio](./2021_2022-3CI-BELLINI-Antonio/)
 - [CIRCHETTA Alessandro](./2021_2022-3CI-CIRCHETTA-Alessandro/)
 - [SALERNO Alessandro](./2021_2022-3CI-SALERNO-Alessandro/)
