@@ -1,0 +1,7 @@
+1 ciao 1
+2 bella 17
+3 flora 15
+4 lollo 16
+5 prova 22
+6 ciaone 22
+7 simone 22

@@ -1,0 +1,38 @@
+SFONDO:
+0 = nero
+1 = blu scuro
+2 = verde
+3 = verde acqua 
+4 = bordeaux
+5 = viola
+6 = verde oliva
+7 = grigio chiaro 
+8 = grigio
+9 = blu
+
+COLORE TESTO:
+A = verde limone
+B = azzurro
+C = rosso 
+D = fucsia
+E = giallo
+F = bianco
+
+left : 72 
+right : 80 
+up : 75 
+down : 77
+
+
+r Apre un file di testo in lettura
+w Crea un file di testo in scrittura
+a Apre un file di testo in modalità append
+rb Apre un file binario in lettura
+wb Crea un file binario in scrittura
+ab Apre un file binario in modalità append
+r+ Apre un file di testo in lettura/scrittura
+w+ Crea un file di testo in lettura/scrittura
+a+ Crea o apre un file di testo in modalità append per lettura/scritura
+r+b Apre un file binario in lettura/scrittura
+w+b Crea un file binario in lettura/scrittura
+a+b Crea o apre un file binario in modalità append per lettura/scrittura
